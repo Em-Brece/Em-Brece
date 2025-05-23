@@ -1,4 +1,6 @@
-## Hi there 👋
+## A little introduction...
+My name is Santiago, but many people like to refer to me as Brece. I'm a computer engineering student in University of Los Andes
+and I'm just learning how to code
 
 <!--
 **Em-Brece/Em-Brece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
